@@ -38,6 +38,31 @@
             }
           ],
           "points": 2
+        },
+        {
+          "id": 1795375157923,
+          "type": "table_fill",
+          "text": "Жидкие ткани в теле человека",
+          "points": 100,
+          "headers": [
+            "Кровь",
+            "Лимфа",
+            "Костная ткань"
+          ],
+          "rows": [
+            {
+              "key": "row_1795375157923_5sg3d",
+              "label": "вфвфв",
+              "correct_value": "фвфвф",
+              "is_hint": false
+            },
+            {
+              "key": "row_1795375157923_1dahm",
+              "label": "авава",
+              "correct_value": "аввава",
+              "is_hint": false
+            }
+          ]
         }
       ]
     }
