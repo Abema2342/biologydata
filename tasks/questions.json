@@ -38,30 +38,6 @@
             }
           ],
           "points": 2
-        },
-        {
-          "id": 1795375038095,
-          "type": "table_fill",
-          "text": "Жидкие ткани в теле человека",
-          "points": 100,
-          "headers": [
-            "Кровь",
-            "Лимфа"
-          ],
-          "rows": [
-            {
-              "key": "row_1795375038095_y3ny0",
-              "label": "Жидкая?",
-              "correct_value": "Да",
-              "is_hint": false
-            },
-            {
-              "key": "row_1795375038095_urzg6",
-              "label": "Жидкая?",
-              "correct_value": "Да",
-              "is_hint": false
-            }
-          ]
         }
       ]
     }
