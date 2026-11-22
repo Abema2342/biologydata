@@ -4,5 +4,11 @@
     "password": "admin",
     "role": "admin",
     "name": "Администратор"
+  },
+  {
+    "login": "123",
+    "password": "123",
+    "name": "123",
+    "role": "user"
   }
 ]
