@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": "tissues",
+      "name": "Ткани человека",
+      "questions": [
+        {
+          "id": 1,
+          "type": "multiple_choice",
+          "text": "Какая ткань обладает свойством возбудимости?",
+          "options": ["Эпителиальная", "Нервная", "Соединительная", "Костная"],
+          "correct_index": 1,
+          "points": 1
+        },
+        {
+          "id": 2,
+          "type": "table_fill",
+          "text": "Заполните пропуски в таблице видов тканей",
+          "headers": ["Вид ткани", "Основная функция"],
+          "rows": [
+            {"key": "muscle", "label": "Мышечная", "correct_value": "Сокращение"},
+            {"key": "blood", "label": "Кровь", "correct_value": "Транспорт веществ"}
+          ],
+          "points": 2
+        }
+      ]
+    }
+  ]
+}
