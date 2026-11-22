@@ -38,17 +38,6 @@
             }
           ],
           "points": 2
-        },
-        {
-          "id": 1795373355682,
-          "type": "multiple_choice",
-          "text": "Кровь это такнь?",
-          "points": 100,
-          "options": [
-            "Да",
-            "нет"
-          ],
-          "correct_index": 0
         }
       ]
     }
