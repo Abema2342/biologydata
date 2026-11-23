@@ -38,6 +38,17 @@
             }
           ],
           "points": 2
+        },
+        {
+          "id": 1795414950769,
+          "type": "multiple_choice",
+          "text": "Выбери да",
+          "points": 100,
+          "options": [
+            "Да",
+            "Нет"
+          ],
+          "correct_index": 0
         }
       ]
     }
