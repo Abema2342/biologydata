@@ -18,28 +18,6 @@
           "points": 1
         },
         {
-          "id": 2,
-          "type": "table_fill",
-          "text": "Заполните пропуски в таблице видов тканей",
-          "headers": [
-            "Вид ткани",
-            "Основная функция"
-          ],
-          "rows": [
-            {
-              "key": "muscle",
-              "label": "Мышечная",
-              "correct_value": "Сокращение"
-            },
-            {
-              "key": "blood",
-              "label": "Кровь",
-              "correct_value": "Транспорт веществ"
-            }
-          ],
-          "points": 2
-        },
-        {
           "id": 1795414950769,
           "type": "multiple_choice",
           "text": "Выбери да",
