@@ -27,66 +27,6 @@
             "Нет"
           ],
           "correct_index": 0
-        },
-        {
-          "id": 1795457589703,
-          "type": "table_fill",
-          "text": "Состав тканей человека (Вводить с большой буквы)",
-          "points": 100,
-          "headers": [
-            "Кровь",
-            "лимфа"
-          ],
-          "rows": [
-            {
-              "cells": [
-                {
-                  "value": "Тромбоциты",
-                  "is_hint": true
-                },
-                {
-                  "value": "Плазма",
-                  "is_hint": true
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "value": "Лейкоцит",
-                  "is_hint": false
-                },
-                {
-                  "value": "",
-                  "is_hint": false
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "value": "Эритроцит",
-                  "is_hint": true
-                },
-                {
-                  "value": "---",
-                  "is_hint": true
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "value": "Плазма",
-                  "is_hint": false
-                },
-                {
-                  "value": "---",
-                  "is_hint": false
-                }
-              ]
-            }
-          ]
         }
       ]
     },
