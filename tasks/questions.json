@@ -87,6 +87,33 @@
               ]
             }
           ]
+        },
+        {
+          "id": 1795522803880,
+          "type": "table_fill",
+          "text": "Жидкие ткани",
+          "points": 1,
+          "headers": [
+            "adad"
+          ],
+          "rows": [
+            {
+              "cells": [
+                {
+                  "value": "d",
+                  "is_hint": true
+                }
+              ]
+            },
+            {
+              "cells": [
+                {
+                  "value": "adad",
+                  "is_hint": false
+                }
+              ]
+            }
+          ]
         }
       ]
     }
