@@ -87,18 +87,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": 1795543200529,
-          "type": "multiple_choice",
-          "text": "dsadsad",
-          "points": 1,
-          "options": [
-            "1",
-            "1",
-            "1"
-          ],
-          "correct_index": 0
         }
       ]
     }
