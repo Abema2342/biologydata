@@ -24,6 +24,8 @@
     "answer": "органы",
     "correctAnswer": "орган",
     "timestamp": "2026-11-24T19:50:07.303Z",
-    "status": "pending"
+    "status": "approved",
+    "reviewedAt": "2026-11-24T19:50:19.240Z",
+    "reviewer": "test1"
   }
 ]
