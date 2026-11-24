@@ -53,11 +53,11 @@
             {
               "cells": [
                 {
-                  "value": "Эритроцит",
+                  "value": "1",
                   "is_hint": false
                 },
                 {
-                  "value": "Лимфоцит",
+                  "value": "1",
                   "is_hint": false
                 }
               ]
