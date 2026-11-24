@@ -16,66 +16,6 @@
           ],
           "correct_index": 1,
           "points": 1
-        },
-        {
-          "id": 1795522463330,
-          "type": "table_fill",
-          "text": "Жидкие ткани",
-          "points": 1,
-          "headers": [
-            "Кровь",
-            "Лимфа"
-          ],
-          "rows": [
-            {
-              "cells": [
-                {
-                  "value": "Тромбоцит",
-                  "is_hint": true
-                },
-                {
-                  "value": "Плазма",
-                  "is_hint": true
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "value": "Эритроцит",
-                  "is_hint": false
-                },
-                {
-                  "value": "Лимфоцит",
-                  "is_hint": false
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "value": "Плазма",
-                  "is_hint": true
-                },
-                {
-                  "value": "---",
-                  "is_hint": true
-                }
-              ]
-            },
-            {
-              "cells": [
-                {
-                  "value": "Лейкоцит",
-                  "is_hint": true
-                },
-                {
-                  "value": "---",
-                  "is_hint": true
-                }
-              ]
-            }
-          ]
         }
       ]
     }
