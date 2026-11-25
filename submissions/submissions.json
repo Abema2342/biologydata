@@ -103,6 +103,8 @@
     "answer": "половой орган",
     "correctAnswer": "орган",
     "timestamp": "2026-11-25T09:01:49.494Z",
-    "status": "pending"
+    "status": "approved",
+    "reviewedAt": "2026-11-25T09:02:06.709Z",
+    "reviewer": "123"
   }
 ]
