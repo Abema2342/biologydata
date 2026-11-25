@@ -10,5 +10,11 @@
     "password": "77790100",
     "name": "АНЕЧКА",
     "role": "user"
+  },
+  {
+    "login": "123",
+    "password": "123",
+    "name": "123",
+    "role": "admin"
   }
 ]
