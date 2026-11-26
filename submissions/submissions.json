@@ -364,6 +364,8 @@
     "answer": "орган",
     "correctAnswer": "орган",
     "timestamp": "2026-11-26T14:54:18.456Z",
-    "status": "pending"
+    "status": "approved",
+    "reviewedAt": "2026-11-26T14:54:29.311Z",
+    "reviewer": "123"
   }
 ]
