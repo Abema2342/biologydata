@@ -498,6 +498,8 @@
     "answer": "dsaasd",
     "correctAnswer": "орган",
     "timestamp": "2026-11-26T16:58:27.610Z",
-    "status": "pending"
+    "status": "approved",
+    "reviewedAt": "2026-11-26T16:58:48.788Z",
+    "reviewer": "123"
   }
 ]
