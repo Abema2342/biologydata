@@ -184,6 +184,8 @@
     "answer": "часть тела ",
     "correctAnswer": "орган",
     "timestamp": "2026-11-25T18:05:55.722Z",
-    "status": "pending"
+    "status": "approved",
+    "reviewedAt": "2026-11-26T14:38:08.697Z",
+    "reviewer": "123"
   }
 ]
