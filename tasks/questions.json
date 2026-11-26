@@ -125,6 +125,28 @@
           ]
         }
       ]
+    },
+    {
+      "id": "тест",
+      "name": "тест",
+      "questions": [
+        {
+          "id": 1795705419793,
+          "type": "multiple_choice",
+          "text": "ыывыфв",
+          "points": 1,
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "is_multi_select": true,
+          "correct_indices": [
+            null
+          ]
+        }
+      ]
     }
   ]
 }
