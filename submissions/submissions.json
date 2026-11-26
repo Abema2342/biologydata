@@ -340,7 +340,9 @@
     "answer": "орган",
     "correctAnswer": "орган",
     "timestamp": "2026-11-26T14:54:14.286Z",
-    "status": "pending"
+    "status": "approved",
+    "reviewedAt": "2026-11-26T14:54:33.835Z",
+    "reviewer": "123"
   },
   {
     "id": "sub_1795704856822_vkbsi",
